@@ -1,0 +1,17 @@
+{
+	"ulid": "01GT96CQM5D714FZE1P1FS6VJN",
+	"minTime": 1677463200076,
+	"maxTime": 1677470400000,
+	"stats": {
+		"numSamples": 1473943,
+		"numSeries": 1758,
+		"numChunks": 13389
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GT96CQM5D714FZE1P1FS6VJN"
+		]
+	},
+	"version": 1
+}
